@@ -1,0 +1,72 @@
+[
+  {
+    "flagCode": "ES",
+    "country": "Spain",
+    "TouristArrivalsTotalViaWPT_2022": 104968000
+  },
+  {
+    "flagCode": "IT",
+    "country": "Italy",
+    "TouristArrivalsTotalViaWPT_2022": 74317000
+  },
+  {
+    "flagCode": "PL",
+    "country": "Poland",
+    "TouristArrivalsTotalViaWPT_2022": 71814000
+  },
+  {
+    "flagCode": "MX",
+    "country": "Mexico",
+    "TouristArrivalsTotalViaWPT_2022": 65995000
+  },
+  {
+    "flagCode": "TR",
+    "country": "Turkey",
+    "TouristArrivalsTotalViaWPT_2022": 51388000
+  },
+  {
+    "flagCode": "US",
+    "country": "United States",
+    "TouristArrivalsTotalViaWPT_2022": 50870000
+  },
+  {
+    "flagCode": "HR",
+    "country": "Croatia",
+    "TouristArrivalsTotalViaWPT_2022": 50023000
+  },
+  {
+    "flagCode": "HU",
+    "country": "Hungary",
+    "TouristArrivalsTotalViaWPT_2022": 46343000
+  },
+  {
+    "flagCode": "DK",
+    "country": "Denmark",
+    "TouristArrivalsTotalViaWPT_2022": 31530000
+  },
+  {
+    "flagCode": "GB",
+    "country": "United Kingdom",
+    "TouristArrivalsTotalViaWPT_2022": 31244000
+  },
+  {
+    "flagCode": "GR",
+    "country": "Greece",
+    "TouristArrivalsTotalViaWPT_2022": 29876000
+  },
+  {
+    "flagCode": "DE",
+    "country": "Germany",
+    "TouristArrivalsTotalViaWPT_2022": 28463000
+  },
+  {
+    "flagCode": "AT",
+    "country": "Austria",
+    "TouristArrivalsTotalViaWPT_2022": 26215000
+  },
+  {
+    "flagCode": "CN",
+    "country": "China",
+    "TouristArrivalsTotalViaWPT_2022": 25250000
+  }
+]
